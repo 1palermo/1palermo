@@ -1,4 +1,4 @@
-![logo]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mindinventory.com%2Fblog%2Ftechnology-stack-for-web-app-development%2F&psig=AOvVaw0FX7GibY_bVnH9NzMi1oey&ust=1693722892894000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjRl86ni4EDFQAAAAAdAAAAABAZ")
+![logo]("https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg")
 <h1 align="center">Hi 👋, I'm Aman Deep</h1>
 <h3 align="center">I am a Passionate Web Developer , trying to learn new things , want to deep dive in open source.</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg">
