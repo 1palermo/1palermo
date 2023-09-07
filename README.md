@@ -1,4 +1,4 @@
-![logo]("https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg")
+<img src="https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg">
 <h1 align="center">Hi 👋, I'm Aman Deep</h1>
 <h3 align="center">I am a Passionate Web Developer , trying to learn new things , want to deep dive in open source.</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg">
